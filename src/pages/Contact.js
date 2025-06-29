@@ -62,13 +62,13 @@ const Contact = () => {
     {
       icon: <FaGithub />,
       name: "GitHub",
-      url: "https://github.com",
+      url: "https://github.com/Umaiz123",
       color: "#333",
     },
     {
       icon: <FaLinkedin />,
       name: "LinkedIn",
-      url: "https://linkedin.com",
+      url: "https://www.linkedin.com/in/mohammed-umaiz-n-817b2a321",
       color: "#0077b5",
     },
   ];
