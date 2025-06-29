@@ -82,7 +82,7 @@ const Resume = () => {
               Download my resume or explore my experience and skills
             </p>
             <a
-              href="/Mohd_Umaiz_Profile.pdf"
+              href="/Md_Umaiz_Profile.pdf"
               download="Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
