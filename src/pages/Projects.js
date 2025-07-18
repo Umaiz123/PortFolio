@@ -16,7 +16,7 @@ const Projects = () => {
       tech: ["Node.js", "Express.js", "PostgreSQL"],
       category: "fullstack",
       github: "https://github.com/Umaiz123/Travel-Tracker",
-      demo: "https://travel-tracker-i4aq.onrender.com",
+      demo: "https://travel-tracker-btou.onrender.com/",
       featured: true,
     },
     {
@@ -40,7 +40,7 @@ const Projects = () => {
       tech: ["NodeJS", "ExpressJS", "Middlewares", "Render"],
       category: "backend",
       github: "https://github.com/Umaiz123/Blog-API-Project",
-      demo: "https://blog-api-frontend-mglr.onrender.com",
+      demo: "https://api-frontend-i7i7.onrender.com",
       featured: false,
     },
     {
